@@ -1,0 +1,1 @@
+A user-friendly web application that helps non-tech-savvy users create stunning Instagram stories and posts effortlessly. Powered by AI, it analyzes uploaded images, detects objects and people, and recommends the most suitable templates based on the event type, ensuring a seamless and visually appealing content creation experience.
